@@ -20,6 +20,7 @@ Individual Talks:
   - [Code and examples](https://pybay.com/site_media/slides/raymond2017-keynote/index.html)
 - "[Techniques for Design Reviews](https://www.youtube.com/watch?v=cNqJDRsefg8&ab_channel=BayPiggies)" BayPIGgies meetup 2017
 - "[Use Python to Load & Prepare Data Analytics](https://www.youtube.com/watch?v=nO78ECRighw)" LiveLessons 2017 
+  - [Code and examples](https://github.com/rhettinger/modernpython)   
 - "[Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U)" PyBay keynote 2016
 - "[Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0)" PyCon Russia 2016
 - "[Modern Dictionaries](https://www.youtube.com/watch?v=9zinZmE3Ogk)" San Francisc Python meetup 2016
