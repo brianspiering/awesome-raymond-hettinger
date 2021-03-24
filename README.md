@@ -11,6 +11,7 @@ A curated list of awesome Raymond Hettinger talks.
 - "[Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw)" PyCon 2018
 - "[Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw&ab_channel=SFPython)" PyBay 2018
 - "[Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)" PyBay keynote 2017 
+- "[Techniques for Design Reviews](https://www.youtube.com/watch?v=cNqJDRsefg8&ab_channel=BayPiggies)" BayPIGgies meetup 2017
 - "[Use Python to Load & Prepare Data Analytics](https://www.youtube.com/watch?v=nO78ECRighw)" LiveLessons 2017 
 - "[Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U)" PyBay keynote 2016
 - "[Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0)" PyCon Russia 2016
