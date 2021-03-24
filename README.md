@@ -8,7 +8,7 @@ Individual Talks:
 - "[Object Oriented Programming from scratch (four times)](https://www.youtube.com/watch?v=8moWQ1561FY)" PyConEstonia keynote 2020 
 - "[The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)" PyBay keynote 2019 
 - "[Modern solvers: Problems well-defined are problems solved](https://www.youtube.com/watch?v=_GP9OpZPUYc&t=129s&ab_channel=PyCon2019)" PyCon 2019 
-  - [code and examples](https://rhettinger.github.io/)
+  - [Code and examples](https://rhettinger.github.io/)
 - "[Build powerful, new data structures with Python's abstract base classes](https://www.youtube.com/watch?v=S_ipdVNSFlo)" PyCon Russia 2019
 - "[Learning From Games and Puzzless](https://www.youtube.com/watch?v=lOWeCyOvRGk)" San Francisco Python Holiday Party 2019
 - "[Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw)" PyCon 2018
@@ -28,7 +28,12 @@ Individual Talks:
 - "[Python Tips, Tricks and Idioms](https://www.youtube.com/watch?v=JbNG3rVLJvA)" EuroPython 2011
 - "[The Art of Subclassing](https://vimeo.com/32132957)" PyCon Ireland 2011
 
-Collections:
+Collections of talks:
 
 - [Video playlist on YouTube](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
 - [Collection of older videos on PyVideo.org](https://pyvideo.org/search.html?q=raymond+hettinger)
+
+Code examples:
+
+- [GitHub](https://github.com/rhettinger)
+- [ActiveState Code](https://code.activestate.com/recipes/users/178123/)
