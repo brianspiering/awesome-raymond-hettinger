@@ -23,3 +23,4 @@ A curated list of awesome Raymond Hettinger talks.
 - "[What Makes Python Awesome](https://www.youtube.com/watch?v=NfngrdLv9ZQ)" PyCon US 2013
 - "[Python Tips, Tricks and Idioms](https://www.youtube.com/watch?v=JbNG3rVLJvA)" EuroPython 2011
 - "[The Art of Subclassing](https://vimeo.com/32132957)" PyCon Ireland 2011
+- [Collection of older videos on PyVideo.org](https://pyvideo.org/search.html?q=raymond+hettinger)
