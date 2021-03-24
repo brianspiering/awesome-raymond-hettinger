@@ -10,10 +10,14 @@ Individual Talks:
 - "[Modern solvers: Problems well-defined are problems solved](https://www.youtube.com/watch?v=_GP9OpZPUYc&t=129s&ab_channel=PyCon2019)" PyCon 2019 
   - [Code and examples](https://rhettinger.github.io/)
 - "[Build powerful, new data structures with Python's abstract base classes](https://www.youtube.com/watch?v=S_ipdVNSFlo)" PyCon Russia 2019
-- "[Learning From Games and Puzzless](https://www.youtube.com/watch?v=lOWeCyOvRGk)" San Francisco Python Holiday Party 2019
+- "[Learning From Games and Puzzles](https://www.youtube.com/watch?v=lOWeCyOvRGk)" San Francisco Python Holiday Party 2019
+  - [Code and examples](http://bayareapython.com/media/raymond-2018-holiday-party/index.html)  
 - "[Dataclasses: The code generator to end all code generators](https://www.youtube.com/watch?v=T-TwcmT6Rcw)" PyCon 2018
-- "[Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw&ab_channel=SFPython)" PyBay 2018
-- "[Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)" PyBay keynote 2017 
+  - [Code and examples](https://www.dropbox.com/s/te4q0xf46zkuu21/hettinger_dataclasses_pycon_2018.zip)   
+- "[Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw&ab_channel=SFPython)" PyBay 2018 
+  - [Code and examples](https://pybay.com/site_media/slides/raymond2018-keynote/index.html)
+- "[Let's Chat about Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)" PyBay keynote 2017 
+  - [Code and examples](https://pybay.com/site_media/slides/raymond2017-keynote/index.html)
 - "[Techniques for Design Reviews](https://www.youtube.com/watch?v=cNqJDRsefg8&ab_channel=BayPiggies)" BayPIGgies meetup 2017
 - "[Use Python to Load & Prepare Data Analytics](https://www.youtube.com/watch?v=nO78ECRighw)" LiveLessons 2017 
 - "[Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U)" PyBay keynote 2016
@@ -36,6 +40,6 @@ Collections of talks:
 
 Code examples:
 
-- [Descriptors - The Magic behind python](https://www.pkimber.net/howto/python/conference/descriptors.html)
+- [Descriptors - The magic behind python](https://www.pkimber.net/howto/python/conference/descriptors.html)
 - [GitHub](https://github.com/rhettinger)
 - [ActiveState Code](https://code.activestate.com/recipes/users/178123/)
