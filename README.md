@@ -27,6 +27,7 @@ Individual Talks:
 - "[What Makes Python Awesome](https://www.youtube.com/watch?v=NfngrdLv9ZQ)" PyCon US 2013
 - "[Python Tips, Tricks and Idioms](https://www.youtube.com/watch?v=JbNG3rVLJvA)" EuroPython 2011
 - "[The Art of Subclassing](https://vimeo.com/32132957)" PyCon Ireland 2011
+- "[API Design: Lessons Learned](https://archive.org/details/pyvideo_366___api-design-lessons-learned)" PyCon Altanta 2011
 
 Collections of talks:
 
@@ -35,5 +36,6 @@ Collections of talks:
 
 Code examples:
 
+- [Descriptors - The Magic behind python](https://www.pkimber.net/howto/python/conference/descriptors.html)
 - [GitHub](https://github.com/rhettinger)
 - [ActiveState Code](https://code.activestate.com/recipes/users/178123/)
