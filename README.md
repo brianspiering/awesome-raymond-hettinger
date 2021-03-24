@@ -3,6 +3,8 @@ Awesome Raymond Hettinger
 
 A curated list of awesome Raymond Hettinger talks.
 
+Individual Talks:
+
 - "[Object Oriented Programming from scratch (four times)](https://www.youtube.com/watch?v=8moWQ1561FY)" PyConEstonia keynote 2020 
 - "[The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)" PyBay keynote 2019 
 - "[Modern solvers: Problems well-defined are problems solved](https://www.youtube.com/watch?v=_GP9OpZPUYc&t=129s&ab_channel=PyCon2019)" PyCon 2019 
@@ -24,4 +26,8 @@ A curated list of awesome Raymond Hettinger talks.
 - "[What Makes Python Awesome](https://www.youtube.com/watch?v=NfngrdLv9ZQ)" PyCon US 2013
 - "[Python Tips, Tricks and Idioms](https://www.youtube.com/watch?v=JbNG3rVLJvA)" EuroPython 2011
 - "[The Art of Subclassing](https://vimeo.com/32132957)" PyCon Ireland 2011
+
+Collections:
+
+- [Video playlist on YouTube](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
 - [Collection of older videos on PyVideo.org](https://pyvideo.org/search.html?q=raymond+hettinger)
