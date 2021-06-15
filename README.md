@@ -23,6 +23,7 @@ Individual talks (by date)
 - "[Use Python to Load & Prepare Data Analytics](https://www.youtube.com/watch?v=nO78ECRighw)" LiveLessons 2017 
   - [Code and examples](https://github.com/rhettinger/modernpython)   
 - "[Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U)" PyBay keynote 2016
+- "[Invitation to Core Developer World](https://www.youtube.com/watch?v=-TdrFjDJn5E&ab_channel=PyConCanada)" PyCon Canada 2016
 - "[How to do Design Reviews: TransformDict & Drug Trials case studies](https://www.youtube.com/watch?v=CDxX9BY8U6o&ab_channel=PyConIsrael)" PyCon Israel keynote 2016
   - [Code and examples](https://pycon.org.il/2016/static/sessions/raymond-hettinger.pdf) 
 - "[Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0)" PyCon Russia 2016
@@ -35,6 +36,7 @@ Individual talks (by date)
 - "[What Makes Python Awesome](https://www.youtube.com/watch?v=NfngrdLv9ZQ)" PyCon US 2013
 - "[Python Tips, Tricks and Idioms](https://www.youtube.com/watch?v=JbNG3rVLJvA)" EuroPython 2011
 - "[The Art of Subclassing](https://vimeo.com/32132957)" PyCon Ireland 2011
+- "[What makes Python awesome](https://www.youtube.com/watch?v=b_pTxGu2L04&ab_channel=PyConAU)" PyCon Australia 2011
 - "[API Design: Lessons Learned](https://archive.org/details/pyvideo_366___api-design-lessons-learned)" PyCon Altanta 2011
 
 Talk collections
