@@ -3,7 +3,8 @@ Awesome Raymond Hettinger
 
 A curated list of awesome Raymond Hettinger talks and code.
 
-Individual Talks:
+Individual talks (by date)
+-----
 
 - "[Object Oriented Programming from scratch (four times)](https://www.youtube.com/watch?v=8moWQ1561FY)" PyConEstonia keynote 2020 
 - "[The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)" PyBay keynote 2019 
@@ -22,6 +23,8 @@ Individual Talks:
 - "[Use Python to Load & Prepare Data Analytics](https://www.youtube.com/watch?v=nO78ECRighw)" LiveLessons 2017 
   - [Code and examples](https://github.com/rhettinger/modernpython)   
 - "[Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U)" PyBay keynote 2016
+- "[How to do Design Reviews: TransformDict & Drug Trials case studies](https://www.youtube.com/watch?v=CDxX9BY8U6o&ab_channel=PyConIsrael)" PyCon Israel keynote 2016
+  - [Code and examples](https://pycon.org.il/2016/static/sessions/raymond-hettinger.pdf) 
 - "[Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0)" PyCon Russia 2016
 - "[Modern Dictionaries](https://www.youtube.com/watch?v=9zinZmE3Ogk)" San Francisc Python meetup 2016
 - "[Super considered super!](https://www.youtube.com/watch?v=EiOglTERPEo)" PyCon 2015
@@ -34,12 +37,14 @@ Individual Talks:
 - "[The Art of Subclassing](https://vimeo.com/32132957)" PyCon Ireland 2011
 - "[API Design: Lessons Learned](https://archive.org/details/pyvideo_366___api-design-lessons-learned)" PyCon Altanta 2011
 
-Collections of talks:
+Talk collections
+-----
 
 - [Video playlist on YouTube](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
 - [Collection of older videos on PyVideo.org](https://pyvideo.org/search.html?q=raymond+hettinger)
 
-Code examples:
+Code examples
+-----
 
 - [Descriptors - The magic behind python](https://www.pkimber.net/howto/python/conference/descriptors.html)
 - [GitHub](https://github.com/rhettinger)
