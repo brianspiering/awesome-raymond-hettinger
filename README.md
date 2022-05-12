@@ -49,5 +49,5 @@ Code examples
 -----
 
 - [Descriptors - The magic behind python](https://www.pkimber.net/howto/python/conference/descriptors.html)
-- [GitHub](https://github.com/rhettinger)
-- [ActiveState Code](https://code.activestate.com/recipes/users/178123/)
+- [Raymond Hettinger's GitHub](https://github.com/rhettinger)
+- [Raymond Hettinger's ActiveState Code](https://code.activestate.com/recipes/users/178123/)
