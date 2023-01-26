@@ -6,6 +6,7 @@ A curated list of awesome Raymond Hettinger talks and code.
 Individual talks (by date)
 -----
 
+- "[Numerical Marvels Inside Python](https://www.youtube.com/watch?v=wiGkV37Kbxk&t=1s) PyData Tel Aviv keynote 2022
 - "[Object Oriented Programming from scratch (four times)](https://www.youtube.com/watch?v=8moWQ1561FY)" PyConEstonia keynote 2020 
 - "[The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)" PyBay keynote 2019 
 - "[Modern solvers: Problems well-defined are problems solved](https://www.youtube.com/watch?v=_GP9OpZPUYc&t=129s&ab_channel=PyCon2019)" PyCon 2019 
@@ -48,6 +49,7 @@ Talk collections
 Code examples
 -----
 
+- [Numerical Marvels Inside Python](https://drive.google.com/file/d/1SXtqtQXJj9Pg5Kl9Z2eXGcnDfa7oy89d/edit)
 - [Descriptors - The magic behind python](https://www.pkimber.net/howto/python/conference/descriptors.html)
 - [Raymond Hettinger's GitHub](https://github.com/rhettinger)
 - [Raymond Hettinger's ActiveState Code](https://code.activestate.com/recipes/users/178123/)
