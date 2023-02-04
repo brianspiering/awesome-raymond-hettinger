@@ -7,6 +7,7 @@ Individual talks (by date)
 -----
 
 - "[Numerical Marvels Inside Python](https://www.youtube.com/watch?v=wiGkV37Kbxk&t=1s)" PyData Tel Aviv keynote 2022
+- "[Pro tips for writing great unit tests ](https://www.youtube.com/watch?v=jSIsyMd2-RY)" PyCon Italia 2022
 - "[Object Oriented Programming from scratch (four times)](https://www.youtube.com/watch?v=8moWQ1561FY)" PyConEstonia keynote 2020 
 - "[The Mental Game of Python](https://www.youtube.com/watch?v=UANN2Eu6ZnM)" PyBay keynote 2019 
 - "[Modern solvers: Problems well-defined are problems solved](https://www.youtube.com/watch?v=_GP9OpZPUYc&t=129s&ab_channel=PyCon2019)" PyCon 2019 
