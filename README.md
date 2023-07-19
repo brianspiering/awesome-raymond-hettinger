@@ -29,7 +29,7 @@ Individual talks (by date)
 - "[How to do Design Reviews: TransformDict & Drug Trials case studies](https://www.youtube.com/watch?v=CDxX9BY8U6o&ab_channel=PyConIsrael)" PyCon Israel keynote 2016
   - [Code and examples](https://pycon.org.il/2016/static/sessions/raymond-hettinger.pdf) 
 - "[Thinking about Concurrency](https://www.youtube.com/watch?v=Bv25Dwe84g0)" PyCon Russia 2016
-- "[Modern Dictionaries](https://www.youtube.com/watch?v=9zinZmE3Ogk)" San Francisc Python meetup 2016
+- "[Modern Dictionaries](https://www.youtube.com/watch?v=npw4s1QTmPg )" San Francisc Python meetup 2016
 - "[Super considered super!](https://www.youtube.com/watch?v=EiOglTERPEo)" PyCon 2015
 - "[Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)" PyCon 2015
 - "[High Performance Python](https://vimeo.com/114368783)" San Francisco Python meetup 2014
